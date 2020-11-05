@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleepTimer", "SleepTimer.csproj", "{CACED8AE-087D-4FAA-851F-E60B9D58282E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Htkbp|Any CPU = Htkbp|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Htkbp|Any CPU.ActiveCfg = Htkbp|Any CPU
+		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Htkbp|Any CPU.Build.0 = Htkbp|Any CPU
+		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C592C40-C31A-477A-A1C9-E3256428F012}
+	EndGlobalSection
+EndGlobal

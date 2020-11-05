@@ -1,0 +1,14 @@
+C:\Users\Vorku\source\repos\WindowsFormsApp1\bin\Debug\Timer.exe.config
+C:\Users\Vorku\source\repos\WindowsFormsApp1\bin\Debug\Timer.exe.manifest
+C:\Users\Vorku\source\repos\WindowsFormsApp1\bin\Debug\Timer.application
+C:\Users\Vorku\source\repos\WindowsFormsApp1\bin\Debug\Timer.exe
+C:\Users\Vorku\source\repos\WindowsFormsApp1\bin\Debug\Timer.pdb
+C:\Users\Vorku\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Vorku\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Vorku\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Vorku\source\repos\WindowsFormsApp1\obj\Debug\Timer.exe.manifest
+C:\Users\Vorku\source\repos\WindowsFormsApp1\obj\Debug\Timer.application
+C:\Users\Vorku\source\repos\WindowsFormsApp1\obj\Debug\Timer.exe
+C:\Users\Vorku\source\repos\WindowsFormsApp1\obj\Debug\Timer.pdb
+C:\Users\Vorku\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Vorku\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache

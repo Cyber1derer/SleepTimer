@@ -1,0 +1,13 @@
+C:\Users\Vorku\source\repos\WindowsFormsApp1\bin\Htkbp\Timer.exe.config
+C:\Users\Vorku\source\repos\WindowsFormsApp1\bin\Htkbp\Timer.exe.manifest
+C:\Users\Vorku\source\repos\WindowsFormsApp1\bin\Htkbp\Timer.application
+C:\Users\Vorku\source\repos\WindowsFormsApp1\bin\Htkbp\Timer.exe
+C:\Users\Vorku\source\repos\WindowsFormsApp1\bin\Htkbp\Timer.pdb
+C:\Users\Vorku\source\repos\WindowsFormsApp1\obj\Htkbp\WindowsFormsApp1.Form1.resources
+C:\Users\Vorku\source\repos\WindowsFormsApp1\obj\Htkbp\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Vorku\source\repos\WindowsFormsApp1\obj\Htkbp\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Vorku\source\repos\WindowsFormsApp1\obj\Htkbp\Timer.exe.manifest
+C:\Users\Vorku\source\repos\WindowsFormsApp1\obj\Htkbp\Timer.application
+C:\Users\Vorku\source\repos\WindowsFormsApp1\obj\Htkbp\Timer.exe
+C:\Users\Vorku\source\repos\WindowsFormsApp1\obj\Htkbp\Timer.pdb
+C:\Users\Vorku\source\repos\WindowsFormsApp1\obj\Htkbp\WindowsFormsApp1.csprojAssemblyReference.cache
