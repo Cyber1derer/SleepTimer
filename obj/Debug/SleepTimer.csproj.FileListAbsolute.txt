@@ -12,3 +12,17 @@ C:\Users\Vorku\source\repos\SleepTimer\obj\Debug\Timer.exe.manifest
 C:\Users\Vorku\source\repos\SleepTimer\obj\Debug\Timer.application
 C:\Users\Vorku\source\repos\SleepTimer\obj\Debug\Timer.exe
 C:\Users\Vorku\source\repos\SleepTimer\obj\Debug\Timer.pdb
+D:\GitRepos\SleepTimer\obj\Debug\SleepTimer.csprojAssemblyReference.cache
+D:\GitRepos\SleepTimer\obj\Debug\WindowsFormsApp1.TimeDownForm1.resources
+D:\GitRepos\SleepTimer\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\GitRepos\SleepTimer\obj\Debug\SleepTimer.csproj.GenerateResource.cache
+D:\GitRepos\SleepTimer\obj\Debug\SleepTimer.csproj.CoreCompileInputs.cache
+D:\GitRepos\SleepTimer\obj\Debug\Timer.exe
+D:\GitRepos\SleepTimer\obj\Debug\Timer.pdb
+D:\GitRepos\SleepTimer\bin\Debug\Timer.exe.config
+D:\GitRepos\SleepTimer\bin\Debug\Timer.exe.manifest
+D:\GitRepos\SleepTimer\bin\Debug\Timer.application
+D:\GitRepos\SleepTimer\bin\Debug\Timer.exe
+D:\GitRepos\SleepTimer\bin\Debug\Timer.pdb
+D:\GitRepos\SleepTimer\obj\Debug\Timer.exe.manifest
+D:\GitRepos\SleepTimer\obj\Debug\Timer.application

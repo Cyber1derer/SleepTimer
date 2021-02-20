@@ -1,0 +1,14 @@
+D:\GitRepos\SleepTimer\bin\x64\Debug\Timer.exe.config
+D:\GitRepos\SleepTimer\bin\x64\Debug\Timer.exe.manifest
+D:\GitRepos\SleepTimer\bin\x64\Debug\Timer.application
+D:\GitRepos\SleepTimer\bin\x64\Debug\Timer.exe
+D:\GitRepos\SleepTimer\bin\x64\Debug\Timer.pdb
+D:\GitRepos\SleepTimer\obj\x64\Debug\SleepTimer.csprojAssemblyReference.cache
+D:\GitRepos\SleepTimer\obj\x64\Debug\WindowsFormsApp1.TimeDownForm1.resources
+D:\GitRepos\SleepTimer\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\GitRepos\SleepTimer\obj\x64\Debug\SleepTimer.csproj.GenerateResource.cache
+D:\GitRepos\SleepTimer\obj\x64\Debug\SleepTimer.csproj.CoreCompileInputs.cache
+D:\GitRepos\SleepTimer\obj\x64\Debug\Timer.exe.manifest
+D:\GitRepos\SleepTimer\obj\x64\Debug\Timer.application
+D:\GitRepos\SleepTimer\obj\x64\Debug\Timer.exe
+D:\GitRepos\SleepTimer\obj\x64\Debug\Timer.pdb

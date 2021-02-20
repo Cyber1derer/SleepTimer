@@ -15,6 +15,7 @@ namespace WindowsFormsApp1
     {
         int time = 60 * 25;
         bool pbar = true;
+        bool SleepFlag = true; //Перменная отслеживающая уход в сон (без нее вечный цикл сна)
         double MaxTime;
         public TimeDownForm1()
         {
@@ -22,7 +23,7 @@ namespace WindowsFormsApp1
             label1.Text = ("Осталось     " + time / 60 + ":" + (time % 60));
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e) //Кнопка запуска
         {  
             //Делаем таймер доступным
             Down.Enabled = true;
@@ -30,6 +31,7 @@ namespace WindowsFormsApp1
             Down.Start();
             button1.Visible = false;
             button2.Visible = true;
+            SleepFlag = true;
         }
         private void button2_Click(object sender, EventArgs e)
         {
@@ -48,9 +50,19 @@ namespace WindowsFormsApp1
             }
             time--;
             label1.Text = ("Осталось     " + time/60 + ":"+ (time % 60));
-            if (time <=0)
+            if (time ==0)
             {
-                Process.Start("shutdown", "-s -f -t 0");
+                if (this.Shutdown.Checked==true)
+                {
+                    Process.Start("shutdown", "-s -f -t 0");
+                }
+                if (this.Sleep.Checked == true && SleepFlag==true)
+                {
+                    SleepFlag = false;
+                    Down.Stop();
+                    System.Diagnostics.Process.Start("rundll32.exe", "powrprof.dll, SetSuspendState 0,1,0");//Отправка компьютера в режим сна
+                }
+
             }
         }
         private void textHour_TextChanged(object sender, EventArgs e)
@@ -99,7 +111,6 @@ namespace WindowsFormsApp1
         {
             Process.Start("Magnify.exe");
         }
-
 
     }
 }

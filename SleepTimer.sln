@@ -8,16 +8,25 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
 		Htkbp|Any CPU = Htkbp|Any CPU
+		Htkbp|x64 = Htkbp|x64
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Debug|x64.ActiveCfg = Debug|x64
+		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Debug|x64.Build.0 = Debug|x64
 		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Htkbp|Any CPU.ActiveCfg = Htkbp|Any CPU
 		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Htkbp|Any CPU.Build.0 = Htkbp|Any CPU
+		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Htkbp|x64.ActiveCfg = Htkbp|x64
+		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Htkbp|x64.Build.0 = Htkbp|x64
 		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Release|x64.ActiveCfg = Release|x64
+		{CACED8AE-087D-4FAA-851F-E60B9D58282E}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

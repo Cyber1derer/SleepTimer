@@ -42,7 +42,8 @@
             this.trackBar1 = new System.Windows.Forms.TrackBar();
             this.trackBar2 = new System.Windows.Forms.TrackBar();
             this.Loop = new System.Windows.Forms.Button();
-            this.Keyboard = new System.Windows.Forms.Button();
+            this.Shutdown = new System.Windows.Forms.RadioButton();
+            this.Sleep = new System.Windows.Forms.RadioButton();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar2)).BeginInit();
             this.SuspendLayout();
@@ -166,19 +167,29 @@
             this.Loop.UseVisualStyleBackColor = false;
             this.Loop.Click += new System.EventHandler(this.Loop_Click);
             // 
-            // Keyboard
+            // Shutdown
             // 
-            this.Keyboard.BackColor = System.Drawing.Color.Goldenrod;
-            this.Keyboard.Font = new System.Drawing.Font("Comic Sans MS", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Keyboard.Location = new System.Drawing.Point(13, 279);
-            this.Keyboard.Name = "Keyboard";
-            this.Keyboard.Size = new System.Drawing.Size(91, 60);
-            this.Keyboard.TabIndex = 12;
-            this.Keyboard.Text = "Пупа";
-            this.Keyboard.UseVisualStyleBackColor = false;
-            this.Keyboard.Click += new System.EventHandler(this.Keyboard_Click);
+            this.Shutdown.AutoSize = true;
+            this.Shutdown.Checked = true;
+            this.Shutdown.Location = new System.Drawing.Point(549, 213);
+            this.Shutdown.Name = "Shutdown";
+            this.Shutdown.Size = new System.Drawing.Size(89, 17);
+            this.Shutdown.TabIndex = 12;
+            this.Shutdown.TabStop = true;
+            this.Shutdown.Text = "Выключение";
+            this.Shutdown.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // Sleep
+            // 
+            this.Sleep.AutoSize = true;
+            this.Sleep.Location = new System.Drawing.Point(549, 237);
+            this.Sleep.Name = "Sleep";
+            this.Sleep.Size = new System.Drawing.Size(44, 17);
+            this.Sleep.TabIndex = 13;
+            this.Sleep.Text = "Сон";
+            this.Sleep.UseVisualStyleBackColor = true;
+            // 
+            // TimeDownForm1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -186,7 +197,8 @@
             this.BackColor = System.Drawing.SystemColors.ControlLight;
             this.CancelButton = this.button2;
             this.ClientSize = new System.Drawing.Size(650, 406);
-            this.Controls.Add(this.Keyboard);
+            this.Controls.Add(this.Sleep);
+            this.Controls.Add(this.Shutdown);
             this.Controls.Add(this.Loop);
             this.Controls.Add(this.trackBar2);
             this.Controls.Add(this.trackBar1);
@@ -199,7 +211,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "Form1";
+            this.Name = "TimeDownForm1";
             this.Text = "Таймер выключения";
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.trackBar2)).EndInit();
@@ -222,7 +234,8 @@
         private System.Windows.Forms.TrackBar trackBar1;
         private System.Windows.Forms.TrackBar trackBar2;
         private System.Windows.Forms.Button Loop;
-        private System.Windows.Forms.Button Keyboard;
+        private System.Windows.Forms.RadioButton Shutdown;
+        private System.Windows.Forms.RadioButton Sleep;
     }
 }
 
